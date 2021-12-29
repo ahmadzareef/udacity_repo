@@ -1,1 +1,3 @@
-# udacity_repo
+git push
+git commit
+git add
